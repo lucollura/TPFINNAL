@@ -24,7 +24,7 @@ export default function Card({info}) {
               {ocultar ===false?
                  <div className="personajes2 container justify-content-center text-center ">
                      <button className="btn btn-primary btn-sm" onClick={ocularInfo}>X</button>
-                     <ul className="list-group-item">
+                     <ul className="list-group-item col-3">
                          <li className="list-group-item text-light">Character Status {info.status}</li>
                          <li className="list-group-item">Species {info.species}</li>
                          <li className="list-group-item">Origin {info.origin.name}</li>
