@@ -1,0 +1,19 @@
+.area{
+    background-color: #344D67!important;
+    color: #6ECCAF!important;
+    border-radius: 5px;
+    border: 8px solid #344D67!important;
+    font-size: 1.3rem;
+    font-family: Raleway;
+   
+    
+}
+.bttn{
+background-color: #6ECCAF!important;
+}
+.bttn:hover{
+background-color: #344D67!important;
+}
+label{
+color: #6ECCAF!important;
+}

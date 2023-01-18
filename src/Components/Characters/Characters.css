@@ -1,0 +1,27 @@
+.Characters {
+    
+    margin-top:0px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 0px;
+    font-size: xx-large!important;
+    color: #6ECCAF!important;
+    font-size: 1.3rem;
+    font-weight: bolder!important;
+    
+}
+.Charactersecction {
+    display: flex;
+    display: araund;
+    margin-top:0px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+    font-size: 1.3rem;
+    color: #6ECCAF!important;
+     
+}
+.titulo {
+    color: #6ECCAF!important;
+    text-align: left;
+}

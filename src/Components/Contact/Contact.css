@@ -1,0 +1,49 @@
+.container{
+    background-color: #5c7592e6; 
+    display: block!important;
+
+}
+
+     
+
+h1{
+    text-align: center;
+    color:#223142!important;
+    font-size: xx-large;
+    font-family: Raleway;
+    font-weight: bolder!important;
+}
+h2{
+    text-align: center;
+    color:#223142!important;
+    font-size: xx-large;
+    font-family: Raleway;
+    font-weight: bolder!important;
+}
+.form-label{
+    color:#223142!important;
+    font-size: 1.3rem;
+    font-family: Raleway;
+    font-weight: bolder!important;
+    
+}
+.inicio{
+    background-color:#223142!important;
+    color: white!important;
+    font-size: 1.3rem;
+    font-family: Raleway;
+    font-weight: bolder!important;
+    border-radius: 15px!important;
+    border: 8px solid #223142 !important;
+
+    
+ }  
+      .inicio:hover{
+       background-color: #344D67!important;
+       color:#223142!important;
+       font-size: 1.3rem;
+       font-family: Raleway;
+       font-weight: bolder!important;
+       border-radius: 10px!important;
+       border: 8px solid #344D67!important;
+       }
